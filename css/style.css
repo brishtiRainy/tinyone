@@ -1,0 +1,154 @@
+
+body{
+	font-family: 'PT Sans', sans-serif;
+	color:#010101;
+
+}
+/*header start*/
+header{
+	padding:15px 0;
+	background-color: #fcdb00; 
+}
+.menu ul li a{
+	font-family: 700;
+	font-size:22px;
+	color:#010101 !important;
+	padding: 0 40px !important;
+	transition: .5s;
+}
+.menu ul li:lastchild a{
+	padding-right: 0 !important;
+
+}
+.menu ul li a:hover{
+	color: #fff !important;
+}
+/*slider start*/
+.slider{
+	background-color: #fcdb00;
+	padding-bottom: 100px;
+}
+.s_content{
+	margin-top: 60px;
+}
+.s_content h1{
+	font-weight: 800px;
+	font-size: 32px;
+	margin-bottom: 20px;
+}
+.s_content h2{
+	font-weight: 400px;
+	font-size: 20px !important;
+	color: #313841;
+	letter-spacing:1px;
+	word-spacing:1px;
+	margin-bottom: 15px;
+}
+.s_content p{
+	font-size: 16px;
+	color: #555555;
+	word-spacing:1px;
+}
+
+.apple li{
+	font-size: 42px;
+	margin-right: 35px !important;
+}
+.s_img{}
+.s_img img{}
+
+.cid{
+	bottom: -75px;
+}
+
+
+.cid li{
+	width: 15px;
+	height: 15px;
+	border-radius:50%;
+	/*background-color: #dd1515;*/
+}
+
+.cid .active{
+	/*background-color: green;*/
+}
+
+/*feauters start*/
+.feature{
+	padding-top: 80px;
+	padding-bottom: 60px;
+
+}
+.c_title{}
+.c_h1{
+	font-weight: 700;
+	font-size: 32px;
+	margin-bottom: 15px;
+
+}
+.c_p{
+	font-size: 20px;
+	color: #313841;
+	letter-spacing: 1px;
+	margin-bottom: 60px;
+}
+/*feauters end*/
+.single{
+	margin-bottom: 40px;
+}
+.s_img{}
+.s_img img{}
+.s_text{}
+.s_text h2{
+	font-size: 22px;
+}
+.s_text p{
+	font-size: 16px;
+	color: #898989;
+	letter-spacing: 1px;
+}
+
+/*slider end*/
+/*contact start*/
+.contact{
+	background-color: #010101;
+	padding-bottom: 100px;
+	padding-top: 80px;
+}
+.yellow{
+	color: #fcdb00;
+}
+.ash{
+	color: #898989;
+}
+.email_form{
+	height: 50px;
+	font-size: 16px;
+	color: #898989;
+
+}
+.btn_form{
+	font-size: 16px;
+	color: #010101;
+	font-weight:700;
+	height: 50px;
+	text-align:center;
+	text-transform: uppercase;
+	background-color: #fcdb00;
+}
+
+.icon{
+	color: #fcdb00;
+	text-align: center;
+	box-sizing: border-box;
+	display: inline-block;
+}
+.icon li{
+	padding-top: 0 30px;
+	display: flex; !important; 
+}
+
+/*contact end*/
+
+
+
